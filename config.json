@@ -13,8 +13,8 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
-  "PREFIX": "/",
+  "BOTNAME": "༺𝚂𝚊𝚖𝚒𝚛 𝙲𝚑𝚊𝚝 𝙱𝚘𝚡༻",
+  "PREFIX": ",",
   "usePrefix": false,
   "reactUnsend": [
     "😡",
@@ -23,12 +23,11 @@
     "😠"
   ],
   "ADMINBOT": [
-    "100044713412032",
-    "100004225532317",
-    "100044713412032"
+    "61595976455332",
+    "61595976455332",
   ],
   "DEVELOPER": [
-    "100044713412032"
+    "61595976455332"
   ],
   "APPSTATEPATH": "appstate.json",
   "FCAOption": {
